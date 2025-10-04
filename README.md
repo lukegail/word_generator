@@ -33,10 +33,8 @@ This Python script generates a custom list of English words based on a set of us
 2.  **Run the script** from your terminal:
 
     ```sh
-    python your_script_name.py
+    python word_generator.py
     ```
-
-    *(Replace `your_script_name.py` with the actual name of your file.)*
 
 3.  **Download NLTK Data**: The first time you run the script, it will automatically download the required `words` corpus from NLTK.
 
